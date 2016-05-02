@@ -1,5 +1,5 @@
 # MovieAndroidApp
-Simple Android App that gets data from MovieDataBase to display movie thumbnails and data.
+Simple Android App that gets data from MovieDataBase (https://www.themoviedb.org) to display movie thumbnails and data.
 
 ### Implementation
 - GridView for displaying thumbnails
